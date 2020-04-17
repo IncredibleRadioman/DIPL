@@ -1,0 +1,1285 @@
+Added Component: Designator=A1(ACAG1204-433-T)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Abracon (США)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ACAG1204-433-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-антенна керамическая ACAG1204-433-T; Abracon (США)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeAnt"; Value = "Чип-антенна керамическая"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 100 нФ ± 10%; 25 В; X5R; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 нФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 100 нФ, X5R, ± 10%, 25 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 1 мкФ ± 10%; 10 В; X5R; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 мкФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 1 мкФ, X5R, ± 10%, 10 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10 В"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 4,7 мкФ ± 10%; 10 В; X5R; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4,7 мкФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 4,7 мкФ, X5R, ± 10%, 10 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10 В"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 100 нФ ± 10%; 25 В; X5R; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 нФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 100 нФ, X5R, ± 10%, 25 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 1 мкФ ± 10%; 10 В; X5R; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 мкФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 1 мкФ, X5R, ± 10%, 10 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10 В"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 100 нФ ± 10%; 25 В; X5R; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 нФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 100 нФ, X5R, ± 10%, 25 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 6 пФ ± 0,25 пФ; 50 В; NPO; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 0,25 пФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "NPO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6 пФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 6 пФ, NPO, ± 0,25 пФ, 50 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 6 пФ ± 0,25 пФ; 50 В; NPO; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 0,25 пФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "NPO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6 пФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 6 пФ, NPO, ± 0,25 пФ, 50 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 100 нФ ± 10%; 25 В; X5R; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 нФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 100 нФ, X5R, ± 10%, 25 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 100 нФ ± 10%; 25 В; X5R; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 нФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 100 нФ, X5R, ± 10%, 25 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 100 нФ ± 10%; 25 В; X5R; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 нФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 100 нФ, X5R, ± 10%, 25 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 100 нФ ± 10%; 25 В; X5R; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 нФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 100 нФ, X5R, ± 10%, 25 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 1 мкФ ± 10%; 10 В; X5R; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 мкФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 1 мкФ, X5R, ± 10%, 10 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10 В"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 100 нФ ± 10%; 25 В; X5R; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 нФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 100 нФ, X5R, ± 10%, 25 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 100 нФ ± 10%; 25 В; X5R; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 нФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 100 нФ, X5R, ± 10%, 25 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 100 нФ ± 10%; 25 В; X5R; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 нФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 100 нФ, X5R, ± 10%, 25 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Added Component: Designator=C17(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 47 пФ ± 5%; 50 В; NPO; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "NPO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47 пФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 47 пФ, NPO, ± 5%, 50 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Added Component: Designator=C18(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 6 пФ ± 0,25 пФ; 50 В; NPO; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 0,25 пФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "NPO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6 пФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 6 пФ, NPO, ± 0,25 пФ, 50 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Added Component: Designator=C19(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 6 пФ ± 0,25 пФ; 50 В; NPO; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 0,25 пФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "NPO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6 пФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 6 пФ, NPO, ± 0,25 пФ, 50 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Added Component: Designator=C20(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 100 нФ ± 10%; 25 В; X5R; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 нФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 100 нФ, X5R, ± 10%, 25 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Added Component: Designator=C21(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 47 пФ ± 5%; 50 В; NPO; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "NPO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47 пФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 47 пФ, NPO, ± 5%, 50 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Added Component: Designator=C22(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 100 нФ ± 10%; 25 В; X5R; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 нФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 100 нФ, X5R, ± 10%, 25 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Added Component: Designator=C23(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 2,2 пФ ± 0,25 пФ; 50 В; NPO; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 0,25 пФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "NPO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2,2 пФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 2,2 пФ, NPO, ± 0,25 пФ, 50 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Added Component: Designator=C24(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 6,8 пФ ± 0,25 пФ; 50 В; NPO; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 0,25 пФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "NPO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6,8 пФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 6,8 пФ, NPO, ± 0,25 пФ, 50 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Added Component: Designator=C25(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 15 пФ ± 5%; 50 В; NPO; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "NPO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15 пФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 15 пФ, NPO, ± 5%, 50 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Added Component: Designator=C26(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 12 пФ ± 5%; 50 В; NPO; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "NPO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12 пФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 12 пФ, NPO, ± 5%, 50 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Added Component: Designator=C27(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 6,8 пФ ± 0,25 пФ; 50 В; NPO; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 0,25 пФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "NPO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "6,8 пФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 6,8 пФ, NPO, ± 0,25 пФ, 50 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Added Component: Designator=C28(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 10 нФ ± 10%; 50 В; X7R; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 нФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 10 нФ, X7R, ± 10%, 50 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Added Component: Designator=C29(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 47 пФ ± 5%; 50 В; NPO; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "NPO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47 пФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 47 пФ, NPO, ± 5%, 50 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Added Component: Designator=C30(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 47 пФ ± 5%; 50 В; NPO; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "NPO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47 пФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 47 пФ, NPO, ± 5%, 50 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50 В"; VariantName = "[No Variations]"
+Added Component: Designator=C31(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 100 нФ ± 10%; 25 В; X5R; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 нФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 100 нФ, X5R, ± 10%, 25 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Added Component: Designator=C32(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-конденсатор керамический; 0402; 100 нФ ± 10%; 25 В; X5R; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Чип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 нФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-конденсатор керамический, 100 нФ, X5R, ± 10%, 25 В, 0402, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25 В"; VariantName = "[No Variations]"
+Added Component: Designator=DA1(SOT223)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentType"; Value = "Linear voltage regulator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentOutput"; Value = "1.2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/stmicroelectronics/LDL1117S33R/497-17239-1-ND/7102079"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics (США)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxDropout"; Value = "0.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LDL1117S33R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Микросхема LDL1117S33R; STMicroelectronics (США)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40...+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Linear voltage regulator, input 3.9...18V, 0.6V, output 3.3V, 1.2A, -40...+85°C, SOT223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageInput"; Value = "input 3.9...18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageOutput"; Value = "output 3.3V"; VariantName = "[No Variations]"
+Added Component: Designator=DD1(LQFP-48)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Jessica"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2016 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics (США)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "STM32L151C6T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Микросхема STM32L151C6T6; STMicroelectronics (США)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Added Component: Designator=DD2(28-QFN (5x5))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentType"; Value = "IC usb-to-uart bridge"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/silicon-labs/CP2102N-A02-GQFN28/336-5889-ND/9863477"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Silicon Labs (США)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "28-VFQFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CP2102N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Микросхема CP2102N; Silicon Labs (США)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard"; Value = "USB2.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply"; Value = "3...3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40...+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "IC usb-to-uart bridge, USB2.0, 3...3.6V, -40...+85°C, 28-VFQFN"; VariantName = "[No Variations]"
+Added Component: Designator=DD3(SOIC8-W_MC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip Technology(США)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "24LC512-I/SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Микросхема 24LC512-I/SM; Microchip Technology(США)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Added Component: Designator=DD4(28-QFN (6x6))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Cory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Semtech Corporation (США)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SX1276IMLTRT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Микросхема SX1276IMLTRT; Semtech Corporation (США)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Added Component: Designator=DD5(R_8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Analog Devices Inc. (США)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ADM3485ARZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Микросхема ADM3485ARZ; Analog Devices Inc. (США)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Added Component: Designator=DD6(D8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet_URL"; Value = "http://www.ti.com/lit/gpn/SN65HVD232"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FAMILY_NAME"; Value = "CAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "INDUSTRY_STD_PKG_TYPE"; Value = "SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments (США)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SN65HVD232D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE_DESIGNATOR"; Value = "D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SN65HVD232"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PIN_COUNT"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Микросхема SN65HVD232; Texas Instruments (США)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Added Component: Designator=J1(CON: JUMPER x1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = ""Перемычка""; VariantName = "[No Variations]"
+Added Component: Designator=L1(IND: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/LQM18FN100M00D/490-4025-1-ND/1016285"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxCurrent"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LQM18FN100M00D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-индуктивность; 0603; 10 мкГн ± 10%; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeInductor"; Value = "Чип-индуктивность"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 мкГн"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-индуктивность, 10 мкГн, ± 10%, 0603, 50mA, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=L2(IND: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/LQM18FN100M00D/490-4025-1-ND/1016285"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxCurrent"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LQM18FN100M00D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-индуктивность; 0603; 4,7 нГн ± 10%; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeInductor"; Value = "Чип-индуктивность"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4,7 нГн"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-индуктивность, 4,7 нГн, ± 10%, 0603, 50mA, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=L3(IND: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/LQM18FN100M00D/490-4025-1-ND/1016285"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxCurrent"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LQM18FN100M00D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-индуктивность; 0603; 22 нГн ± 10%; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeInductor"; Value = "Чип-индуктивность"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22 нГн"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-индуктивность, 22 нГн, ± 10%, 0603, 50mA, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=L4(IND: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/LQM18FN100M00D/490-4025-1-ND/1016285"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxCurrent"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LQM18FN100M00D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-индуктивность; 0603; 22 нГн ± 10%; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeInductor"; Value = "Чип-индуктивность"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22 нГн"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-индуктивность, 22 нГн, ± 10%, 0603, 50mA, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=L5(IND: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/LQM18FN100M00D/490-4025-1-ND/1016285"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxCurrent"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LQM18FN100M00D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-индуктивность; 0603; 18 нГн ± 10%; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeInductor"; Value = "Чип-индуктивность"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "18 нГн"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-индуктивность, 18 нГн, ± 10%, 0603, 50mA, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=L6(IND: 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/LQM18FN100M00D/490-4025-1-ND/1016285"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxCurrent"; Value = "50mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LQM18FN100M00D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-индуктивность; 0603; 18 нГн ± 10%; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeInductor"; Value = "Чип-индуктивность"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "18 нГн"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-индуктивность, 18 нГн, ± 10%, 0603, 50mA, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0402JR-07100RL/311-100JRCT-ND/729362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-резистор; 0402; 10 кОм ± 5%; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Чип-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-резистор, 10 кОм, ± 5%, 0402, 0,1 Вт, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0402JR-07100RL/311-100JRCT-ND/729362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-резистор; 0402; 36 Ом ± 5%; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Чип-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "36 Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-резистор, 36 Ом, ± 5%, 0402, 0,1 Вт, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0402JR-07100RL/311-100JRCT-ND/729362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-резистор; 0402; 5,1 Ом ± 5%; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Чип-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5,1 Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-резистор, 5,1 Ом, ± 5%, 0402, 0,1 Вт, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0402JR-07100RL/311-100JRCT-ND/729362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-резистор; 0402; 5,1 Ом ± 5%; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Чип-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5,1 Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-резистор, 5,1 Ом, ± 5%, 0402, 0,1 Вт, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0402JR-07100RL/311-100JRCT-ND/729362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-резистор; 0402; 10 кОм ± 5%; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Чип-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-резистор, 10 кОм, ± 5%, 0402, 0,1 Вт, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0402JR-07100RL/311-100JRCT-ND/729362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-резистор; 0402; 4,7 кОм ± 5%; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Чип-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4,7 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-резистор, 4,7 кОм, ± 5%, 0402, 0,1 Вт, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0402JR-07100RL/311-100JRCT-ND/729362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-резистор; 0402; 120 Ом ± 5%; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Чип-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "120 Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-резистор, 120 Ом, ± 5%, 0402, 0,1 Вт, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0402JR-07100RL/311-100JRCT-ND/729362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-резистор; 0402; 5,1 Ом ± 5%; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Чип-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5,1 Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-резистор, 5,1 Ом, ± 5%, 0402, 0,1 Вт, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0402JR-07100RL/311-100JRCT-ND/729362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-резистор; 0402; 5,1 Ом ± 5%; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Чип-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5,1 Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-резистор, 5,1 Ом, ± 5%, 0402, 0,1 Вт, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0402JR-07100RL/311-100JRCT-ND/729362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-резистор; 0402; 4,7 кОм ± 5%; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Чип-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4,7 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-резистор, 4,7 кОм, ± 5%, 0402, 0,1 Вт, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0402JR-07100RL/311-100JRCT-ND/729362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-резистор; 0402; 120 Ом ± 5%; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Чип-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "120 Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-резистор, 120 Ом, ± 5%, 0402, 0,1 Вт, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0402JR-07100RL/311-100JRCT-ND/729362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-резистор; 0402; 5,1 Ом ± 5%; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Чип-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5,1 Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-резистор, 5,1 Ом, ± 5%, 0402, 0,1 Вт, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0402JR-07100RL/311-100JRCT-ND/729362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-резистор; 0402; 5,1 Ом ± 5%; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Чип-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5,1 Ом"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-резистор, 5,1 Ом, ± 5%, 0402, 0,1 Вт, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0402JR-07100RL/311-100JRCT-ND/729362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-резистор; 0402; 1 кОм ± 5%; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Чип-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-резистор, 1 кОм, ± 5%, 0402, 0,1 Вт, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0402JR-07100RL/311-100JRCT-ND/729362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 Вт"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип-резистор; 0402; 1 кОм ± 5%; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "Чип-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип-резистор, 1 кОм, ± 5%, 0402, 0,1 Вт, -55...+125°C"; VariantName = "[No Variations]"
+Added Component: Designator=SB1(DS1040-01RT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ningbo Connfly Electronic (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "DS1040-01RT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "DIP-переключатель DS1040-01RT; Ningbo Connfly Electronic (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeButton"; Value = "DIP-переключатель"; VariantName = "[No Variations]"
+Added Component: Designator=SB2(BUT: 6x6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = ""Кнопка""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/te-connectivity-alcoswitch-switches/FSM2JSMAATR/450-1792-1-ND/3503931"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "6x6x5 мм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "FSM2JSMAATR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Кнопка тактовая SMD; 6x6x5 мм; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeButton"; Value = "Кнопка тактовая SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Кнопка тактовая SMD, 6x6x5 мм"; VariantName = "[No Variations]"
+Added Component: Designator=SB3(BUT: 6x6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = ""Кнопка""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/te-connectivity-alcoswitch-switches/FSM2JSMAATR/450-1792-1-ND/3503931"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "6x6x5 мм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "FSM2JSMAATR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Кнопка тактовая SMD; 6x6x5 мм; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeButton"; Value = "Кнопка тактовая SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Кнопка тактовая SMD, 6x6x5 мм"; VariantName = "[No Variations]"
+Added Component: Designator=VB1(AA Holder)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "KLS Electronic Co. (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "L-KLS5-801-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Отсек батарейный L-KLS5-801-D; KLS Electronic Co. (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeMod"; Value = "Отсек батарейный"; VariantName = "[No Variations]"
+Added Component: Designator=VD1(LED: 0603R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "RED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ColorParameter"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.smd.ru/katalog/rezistory_i_potenciometry/postoyannye/0402/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип LED-светодиод *; 0603; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Чип LED-светодиод"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип LED-светодиод, Green, *, *, 0603, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD2(LED: 0603G)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "GREEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ColorParameter"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.smd.ru/katalog/rezistory_i_potenciometry/postoyannye/0402/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BL-HG636D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип LED-светодиод BL-HG636D; 0603; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Чип LED-светодиод"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип LED-светодиод, Green, *, *, 0603, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD3(LED: 0603B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "BLUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ColorParameter"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.smd.ru/katalog/rezistory_i_potenciometry/postoyannye/0402/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BL-HB536A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип LED-светодиод BL-HB536A; 0603; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Чип LED-светодиод"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип LED-светодиод, Green, *, *, 0603, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD4(LED: 0603B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "BLUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ColorParameter"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.smd.ru/katalog/rezistory_i_potenciometry/postoyannye/0402/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BL-HB536A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип LED-светодиод BL-HB536A; 0603; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Чип LED-светодиод"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип LED-светодиод, Green, *, *, 0603, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD5(LED: 0603G)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "GREEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ColorParameter"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.smd.ru/katalog/rezistory_i_potenciometry/postoyannye/0402/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BL-HG636D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип LED-светодиод BL-HG636D; 0603; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Чип LED-светодиод"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип LED-светодиод, Green, *, *, 0603, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD6(LED: 0603B)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "BLUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ColorParameter"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.smd.ru/katalog/rezistory_i_potenciometry/postoyannye/0402/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BL-HB536A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип LED-светодиод BL-HB536A; 0603; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Чип LED-светодиод"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип LED-светодиод, Green, *, *, 0603, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VD7(LED: 0603G)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "GREEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ColorParameter"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.smd.ru/katalog/rezistory_i_potenciometry/postoyannye/0402/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "(Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BL-HG636D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Чип LED-светодиод BL-HG636D; 0603; (Китай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Чип LED-светодиод"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Чип LED-светодиод, Green, *, *, 0603, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X1(CON: PLS-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = "SWD-программатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/pls-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "4pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "PLS-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Вилка прямая PLS-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 4pin, 2.54mm, 500VAC, 3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "500VAC"; VariantName = "[No Variations]"
+Added Component: Designator=X2(CON: USB micro-A (ZX62-B-5PA))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = "USB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/hirose-electric-co-ltd/ZX62-B-5PA/H11579CT-ND/1851090"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Hirose Electric (Япония)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ZX62-B-5PA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Разъем micro-USB; Hirose Electric (Япония)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Разъем micro-USB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Разъем micro-USB"; VariantName = "[No Variations]"
+Added Component: Designator=X3(CON: DG350-3.5-03P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = "RS-485"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/dg350-3.5-03p-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Degson"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "3pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "DG350-3.5-03P-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Клеммник трехконтактный DG350-3.5-03P-14; Degson"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Клеммник трехконтактный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Клеммник трехконтактный, 3pin, 3.5mm, 300VAC, 10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Component: Designator=X4(CON: DG350-3.5-03P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CommentText"; Value = "CAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/dg350-3.5-03p-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Degson"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "3pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "DG350-3.5-03P-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Клеммник трехконтактный DG350-3.5-03P-14; Degson"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Клеммник трехконтактный"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Клеммник трехконтактный, 3pin, 3.5mm, 300VAC, 10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Component: Designator=ZQ1(XTAL_NX3225GD-8M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Cory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacity"; Value = "16 пФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://www.ndk.com/images/products/catalog/c_NX3225GD-STD-CRA-3_e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NDK America (США)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "NX3225GD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Резонатор кварцевый NX3225GD; 8 МГц; 150/50 ppm; 16 пФ; NDK America (США)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "150/50 ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeOsc"; Value = "Резонатор кварцевый"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "8 МГц"; VariantName = "[No Variations]"
+Added Component: Designator=ZQ2(NX3225GA-16.000M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Cory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacity"; Value = "16 пФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NDK America (США)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "NX3225GA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "Резонатор кварцевый NX3225GA; 32 МГц; 15/10 ppm; 16 пФ; NDK America (США)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "15/10 ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeOsc"; Value = "Резонатор кварцевый"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "32 МГц"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetA1_1 Pin=A1-1
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=+3.3V Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=NetC5_2 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=+3.3V Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=+3.3V Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=+3.3V Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=+3.3V Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=+3.3V Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=+3.3V Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=NetC17_1 Pin=C17-1
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=NetC18_2 Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=+3.3V Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=+3.3V Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=+3.3V Pin=C22-2
+Added Pin To Net: NetName=RFI_LF Pin=C23-1
+Added Pin To Net: NetName=RFO_LF Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=RFO_LF Pin=C24-2
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=NetC17_1 Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=NetC26_2 Pin=C26-2
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=NetA1_1 Pin=C27-2
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=VR_PA Pin=C28-2
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=VR_PA Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=VR_PA Pin=C30-2
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=WKUP Pin=C31-2
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=NRST Pin=C32-2
+Added Pin To Net: NetName=GND Pin=DA1-1
+Added Pin To Net: NetName=NetC2_2 Pin=DA1-3
+Added Pin To Net: NetName=+3.3V Pin=DA1-4
+Added Pin To Net: NetName=+3.3V Pin=DD1-1
+Added Pin To Net: NetName=NetC7_2 Pin=DD1-5
+Added Pin To Net: NetName=NetC8_2 Pin=DD1-6
+Added Pin To Net: NetName=NRST Pin=DD1-7
+Added Pin To Net: NetName=GND Pin=DD1-8
+Added Pin To Net: NetName=NetC5_2 Pin=DD1-9
+Added Pin To Net: NetName=WKUP Pin=DD1-10
+Added Pin To Net: NetName=RE/DE Pin=DD1-11
+Added Pin To Net: NetName=DI Pin=DD1-12
+Added Pin To Net: NetName=RO Pin=DD1-13
+Added Pin To Net: NetName=SPI_NSS Pin=DD1-14
+Added Pin To Net: NetName=SPI_SCK Pin=DD1-15
+Added Pin To Net: NetName=SPI_MISO Pin=DD1-16
+Added Pin To Net: NetName=SPI_MOSI Pin=DD1-17
+Added Pin To Net: NetName=NRESET Pin=DD1-18
+Added Pin To Net: NetName=CP2102_RX Pin=DD1-21
+Added Pin To Net: NetName=CP2102_TX Pin=DD1-22
+Added Pin To Net: NetName=GND Pin=DD1-23
+Added Pin To Net: NetName=+3.3V Pin=DD1-24
+Added Pin To Net: NetName=CP2102_RTS Pin=DD1-26
+Added Pin To Net: NetName=CP2102_CTS Pin=DD1-27
+Added Pin To Net: NetName=R Pin=DD1-30
+Added Pin To Net: NetName=D Pin=DD1-31
+Added Pin To Net: NetName=NetDD1_34 Pin=DD1-34
+Added Pin To Net: NetName=GND Pin=DD1-35
+Added Pin To Net: NetName=+3.3V Pin=DD1-36
+Added Pin To Net: NetName=NetDD1_37 Pin=DD1-37
+Added Pin To Net: NetName=NetDD1_42 Pin=DD1-42
+Added Pin To Net: NetName=NetDD1_43 Pin=DD1-43
+Added Pin To Net: NetName=NetDD1_45 Pin=DD1-45
+Added Pin To Net: NetName=GND Pin=DD1-47
+Added Pin To Net: NetName=+3.3V Pin=DD1-48
+Added Pin To Net: NetName=GND Pin=DD2-0
+Added Pin To Net: NetName=GND Pin=DD2-0
+Added Pin To Net: NetName=GND Pin=DD2-0
+Added Pin To Net: NetName=GND Pin=DD2-0
+Added Pin To Net: NetName=GND Pin=DD2-0
+Added Pin To Net: NetName=GND Pin=DD2-0
+Added Pin To Net: NetName=GND Pin=DD2-3
+Added Pin To Net: NetName=USB_P Pin=DD2-4
+Added Pin To Net: NetName=USB_N Pin=DD2-5
+Added Pin To Net: NetName=NetC4_2 Pin=DD2-6
+Added Pin To Net: NetName=NetC1_2 Pin=DD2-7
+Added Pin To Net: NetName=NetC1_2 Pin=DD2-8
+Added Pin To Net: NetName=CP2102_CTS Pin=DD2-23
+Added Pin To Net: NetName=CP2102_RTS Pin=DD2-24
+Added Pin To Net: NetName=CP2102_RX Pin=DD2-25
+Added Pin To Net: NetName=CP2102_TX Pin=DD2-26
+Added Pin To Net: NetName=GND Pin=DD3-1
+Added Pin To Net: NetName=GND Pin=DD3-2
+Added Pin To Net: NetName=GND Pin=DD3-3
+Added Pin To Net: NetName=GND Pin=DD3-4
+Added Pin To Net: NetName=NetDD1_43 Pin=DD3-5
+Added Pin To Net: NetName=NetDD1_42 Pin=DD3-6
+Added Pin To Net: NetName=NetDD1_45 Pin=DD3-7
+Added Pin To Net: NetName=+3.3V Pin=DD3-8
+Added Pin To Net: NetName=GND Pin=DD4-0
+Added Pin To Net: NetName=GND Pin=DD4-0
+Added Pin To Net: NetName=GND Pin=DD4-0
+Added Pin To Net: NetName=GND Pin=DD4-0
+Added Pin To Net: NetName=GND Pin=DD4-0
+Added Pin To Net: NetName=GND Pin=DD4-0
+Added Pin To Net: NetName=GND Pin=DD4-0
+Added Pin To Net: NetName=GND Pin=DD4-0
+Added Pin To Net: NetName=GND Pin=DD4-0
+Added Pin To Net: NetName=GND Pin=DD4-0
+Added Pin To Net: NetName=RFI_LF Pin=DD4-1
+Added Pin To Net: NetName=NetC14_2 Pin=DD4-2
+Added Pin To Net: NetName=+3.3V Pin=DD4-3
+Added Pin To Net: NetName=NetC16_2 Pin=DD4-4
+Added Pin To Net: NetName=NetC18_2 Pin=DD4-5
+Added Pin To Net: NetName=NetC19_2 Pin=DD4-6
+Added Pin To Net: NetName=NRESET Pin=DD4-7
+Added Pin To Net: NetName=+3.3V Pin=DD4-14
+Added Pin To Net: NetName=GND Pin=DD4-15
+Added Pin To Net: NetName=SPI_SCK Pin=DD4-16
+Added Pin To Net: NetName=SPI_MISO Pin=DD4-17
+Added Pin To Net: NetName=SPI_MOSI Pin=DD4-18
+Added Pin To Net: NetName=SPI_NSS Pin=DD4-19
+Added Pin To Net: NetName=GND Pin=DD4-23
+Added Pin To Net: NetName=+3.3V Pin=DD4-24
+Added Pin To Net: NetName=VR_PA Pin=DD4-25
+Added Pin To Net: NetName=GND Pin=DD4-26
+Added Pin To Net: NetName=RFO_LF Pin=DD4-28
+Added Pin To Net: NetName=RO Pin=DD5-1
+Added Pin To Net: NetName=RE/DE Pin=DD5-2
+Added Pin To Net: NetName=RE/DE Pin=DD5-3
+Added Pin To Net: NetName=DI Pin=DD5-4
+Added Pin To Net: NetName=GND Pin=DD5-5
+Added Pin To Net: NetName=485_P Pin=DD5-6
+Added Pin To Net: NetName=485_N Pin=DD5-7
+Added Pin To Net: NetName=+3.3V Pin=DD5-8
+Added Pin To Net: NetName=D Pin=DD6-1
+Added Pin To Net: NetName=GND Pin=DD6-2
+Added Pin To Net: NetName=+3.3V Pin=DD6-3
+Added Pin To Net: NetName=R Pin=DD6-4
+Added Pin To Net: NetName=CAN_N Pin=DD6-6
+Added Pin To Net: NetName=CAN_P Pin=DD6-7
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=+3.3V Pin=J1-2
+Added Pin To Net: NetName=NetC5_2 Pin=L1-1
+Added Pin To Net: NetName=+3.3V Pin=L1-2
+Added Pin To Net: NetName=VR_PA Pin=L2-1
+Added Pin To Net: NetName=RFO_LF Pin=L2-2
+Added Pin To Net: NetName=NetC17_2 Pin=L3-1
+Added Pin To Net: NetName=RFO_LF Pin=L3-2
+Added Pin To Net: NetName=NetC26_2 Pin=L4-1
+Added Pin To Net: NetName=NetC17_1 Pin=L4-2
+Added Pin To Net: NetName=NetA1_1 Pin=L5-1
+Added Pin To Net: NetName=NetC26_2 Pin=L5-2
+Added Pin To Net: NetName=RFI_LF Pin=L6-1
+Added Pin To Net: NetName=GND Pin=L6-2
+Added Pin To Net: NetName=NetDD1_34 Pin=R1-1
+Added Pin To Net: NetName=+3.3V Pin=R1-2
+Added Pin To Net: NetName=+3.3V Pin=R2-2
+Added Pin To Net: NetName=CP2102_TX Pin=R3-2
+Added Pin To Net: NetName=CP2102_RX Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=NetDD1_37 Pin=R5-2
+Added Pin To Net: NetName=485_P Pin=R6-1
+Added Pin To Net: NetName=+3.3V Pin=R6-2
+Added Pin To Net: NetName=485_N Pin=R7-1
+Added Pin To Net: NetName=485_P Pin=R7-2
+Added Pin To Net: NetName=RO Pin=R8-2
+Added Pin To Net: NetName=DI Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=485_N Pin=R10-2
+Added Pin To Net: NetName=CAN_N Pin=R11-1
+Added Pin To Net: NetName=CAN_P Pin=R11-2
+Added Pin To Net: NetName=D Pin=R12-2
+Added Pin To Net: NetName=R Pin=R13-2
+Added Pin To Net: NetName=WKUP Pin=R14-1
+Added Pin To Net: NetName=+3.3V Pin=R14-2
+Added Pin To Net: NetName=NRST Pin=R15-1
+Added Pin To Net: NetName=+3.3V Pin=R15-2
+Added Pin To Net: NetName=NetC2_2 Pin=SB1-2
+Added Pin To Net: NetName=WKUP Pin=SB2-1
+Added Pin To Net: NetName=WKUP Pin=SB2-1
+Added Pin To Net: NetName=GND Pin=SB2-2
+Added Pin To Net: NetName=GND Pin=SB2-2
+Added Pin To Net: NetName=NRST Pin=SB3-1
+Added Pin To Net: NetName=NRST Pin=SB3-1
+Added Pin To Net: NetName=GND Pin=SB3-2
+Added Pin To Net: NetName=GND Pin=SB3-2
+Added Pin To Net: NetName=GND Pin=VB1-2
+Added Pin To Net: NetName=GND Pin=VD1-2
+Added Pin To Net: NetName=GND Pin=VD2-2
+Added Pin To Net: NetName=GND Pin=VD3-2
+Added Pin To Net: NetName=GND Pin=VD4-2
+Added Pin To Net: NetName=GND Pin=VD5-2
+Added Pin To Net: NetName=GND Pin=VD6-2
+Added Pin To Net: NetName=GND Pin=VD7-2
+Added Pin To Net: NetName=NetJ1_1 Pin=X1-1
+Added Pin To Net: NetName=NetDD1_34 Pin=X1-2
+Added Pin To Net: NetName=NetDD1_37 Pin=X1-3
+Added Pin To Net: NetName=GND Pin=X1-4
+Added Pin To Net: NetName=GND Pin=X2-0
+Added Pin To Net: NetName=GND Pin=X2-0
+Added Pin To Net: NetName=GND Pin=X2-0
+Added Pin To Net: NetName=GND Pin=X2-0
+Added Pin To Net: NetName=GND Pin=X2-0
+Added Pin To Net: NetName=GND Pin=X2-0
+Added Pin To Net: NetName=NetC1_2 Pin=X2-1
+Added Pin To Net: NetName=USB_N Pin=X2-2
+Added Pin To Net: NetName=USB_P Pin=X2-3
+Added Pin To Net: NetName=GND Pin=X2-4
+Added Pin To Net: NetName=GND Pin=X2-5
+Added Pin To Net: NetName=485_P Pin=X3-1
+Added Pin To Net: NetName=485_N Pin=X3-2
+Added Pin To Net: NetName=GND Pin=X3-3
+Added Pin To Net: NetName=CAN_P Pin=X4-1
+Added Pin To Net: NetName=CAN_N Pin=X4-2
+Added Pin To Net: NetName=GND Pin=X4-3
+Added Pin To Net: NetName=NetC7_2 Pin=ZQ1-1
+Added Pin To Net: NetName=NetC8_2 Pin=ZQ1-2
+Added Pin To Net: NetName=NetC18_2 Pin=ZQ2-1
+Added Pin To Net: NetName=GND Pin=ZQ2-2
+Added Pin To Net: NetName=NetC19_2 Pin=ZQ2-3
+Added Pin To Net: NetName=GND Pin=ZQ2-4
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=VD1-1
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=VD2-1
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=VD3-1
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_1 Pin=VD4-1
+Added Net: Name=NetR8_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=VD5-1
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR12_1 Pin=VD6-1
+Added Net: Name=NetR12_1
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=VD7-1
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=NetSB1_1 Pin=SB1-1
+Added Pin To Net: NetName=NetSB1_1 Pin=VB1-1
+Added Net: Name=NetSB1_1

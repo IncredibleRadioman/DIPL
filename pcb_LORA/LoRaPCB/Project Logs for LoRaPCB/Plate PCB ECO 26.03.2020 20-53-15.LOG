@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetC18_2 Pin=ZQ2-1
+Removed Pin From Net: NetName=GND Pin=ZQ2-2
+Removed Pin From Net: NetName=NetC19_2 Pin=ZQ2-3
+Removed Pin From Net: NetName=GND Pin=ZQ2-4
+Removed Member From Class: ClassName=Scheme Member=ZQ2

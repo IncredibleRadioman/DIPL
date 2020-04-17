@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RFI_LF Pin=DD4-21
+Removed Pin From Net: NetName=RFO_LF Pin=DD4-22
+Added Pin To Net: NetName=RFI_LF Pin=DD4-1
+Added Pin To Net: NetName=RFO_LF Pin=DD4-28

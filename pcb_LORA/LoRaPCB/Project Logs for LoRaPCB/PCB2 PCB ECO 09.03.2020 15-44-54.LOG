@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=NetDD5_6 New Net Name=485_P
+Change Net Name : Old Net Name=NetDD5_7 New Net Name=485_N
+Change Net Name : Old Net Name=NetDD6_6 New Net Name=CAN_N
+Change Net Name : Old Net Name=NetDD6_7 New Net Name=CAN_P
+Added Differential Pair: Name=485
+Added Differential Pair: Name=CAN

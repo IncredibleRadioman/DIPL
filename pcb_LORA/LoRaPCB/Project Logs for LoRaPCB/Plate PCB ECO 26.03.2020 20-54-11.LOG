@@ -1,0 +1,17 @@
+Added Component: Designator=ZQ?(NX3225GA-16.000M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Cory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacity"; Value = "16 п‘"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NDK America (—Ўј)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "NX3225GA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "#NAME?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "15/10 ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "–езонатор кварцевый"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "32 ћ√ц"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC18_2 Pin=ZQ?-1
+Added Pin To Net: NetName=GND Pin=ZQ?-2
+Added Pin To Net: NetName=NetC19_2 Pin=ZQ?-3
+Added Pin To Net: NetName=GND Pin=ZQ?-4
+Added Member To Class: ClassName=Scheme Member=Component ZQ? NX3225GA

@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=J1 Old Footprint=CON: JUMPER x1 New Footprint=CON: PLS-2
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

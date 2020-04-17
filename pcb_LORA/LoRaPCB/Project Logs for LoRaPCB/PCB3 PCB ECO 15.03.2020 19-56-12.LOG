@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetC2_2 Pin=VB1-1
+Removed Pin From Net: NetName=GND Pin=VB1-2
+Added Component: Designator=VB1(AA_Battery)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/robiton-14500-900-aa"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Model"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3.7V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_2 Pin=VB1-1
+Added Pin To Net: NetName=GND Pin=VB1-2

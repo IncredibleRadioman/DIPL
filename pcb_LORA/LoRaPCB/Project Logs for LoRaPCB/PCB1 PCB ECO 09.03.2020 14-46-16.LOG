@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=NetDD5_6 Pin=X4-1
+Removed Pin From Net: NetName=NetDD5_7 Pin=X4-2
+Removed Pin From Net: NetName=GND Pin=X4-3
+Removed Pin From Net: NetName=NetDD6_7 Pin=X5-1
+Removed Pin From Net: NetName=NetDD6_6 Pin=X5-2
+Removed Pin From Net: NetName=GND Pin=X5-3
+Added Component: Designator=X4(CON8_5520259)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_UL_Team"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Centerline_(Pitch)"; Value = "0.04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector_Type"; Value = "Jack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2016 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "5520259-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_of_Positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PITCH(MM)"; Value = "0.04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "POSITIONS"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRODUCT"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ROWS/CONFIG"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_Internal_Number"; Value = "5520259-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_Part_Number"; Value = "5520259-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3.3V Pin=X4-1
+Added Pin To Net: NetName=NetDD5_6 Pin=X4-2
+Added Pin To Net: NetName=NetDD5_7 Pin=X4-3
+Added Pin To Net: NetName=GND Pin=X4-4
+Added Pin To Net: NetName=NetDD6_7 Pin=X4-5
+Added Pin To Net: NetName=NetDD6_6 Pin=X4-6
+Added Pin To Net: NetName=GND Pin=X4-7

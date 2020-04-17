@@ -1,0 +1,8 @@
+Added Component: Designator=B1(CON: HOLDER 18650 x1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://ru.aliexpress.com/item/32814062027.html?spm=2114.13010708.0.0.498333edwmS6ak"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ALLOYSEED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "Holder 18650"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Single holder 18650"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Single holder 18650, 4.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "4.2V"; VariantName = "[No Variations]"

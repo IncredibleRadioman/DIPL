@@ -1,0 +1,69 @@
+Change component parameters: Designator = "ZQ1"; Footprint = "XTAL_NX3225GD-8M"; UniqueID = "\DZJJPXZV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Built_By"; Value = "EMA_Cory"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacity"; Value = "16 п‘"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://www.ndk.com/images/products/catalog/c_NX3225GD-STD-CRA-3_e.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NDK America (—Ўј)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "NX3225GD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PrintData"; Value = "–езонатор кварцевый NX3225GD; 8 ћ√ц; 150/50 ppm; 16 п‘; NDK America (—Ўј)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "150/50 ppm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeOsc"; Value = "–езонатор кварцевый"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "8 ћ√ц"; VariantName = "[No Variations]"
+Change component parameters: Designator = "ZQ2"; Footprint = "NX3225GA-16.000M"; UniqueID = "\CUNWGGNT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Built_By"; Value = "EMA_Cory"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Capacity"; Value = "16 п‘"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "NDK America (—Ўј)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "NX3225GA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PrintData"; Value = "–езонатор кварцевый NX3225GA; 32 ћ√ц; 15/10 ppm; 16 п‘; NDK America (—Ўј)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "15/10 ppm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeOsc"; Value = "–езонатор кварцевый"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "32 ћ√ц"; VariantName = "[No Variations]"
+Added Component: Designator=C33(CAP: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0402KRX7R7BB104/311-1338-1-ND/2103122"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "( итай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0402KRX7R7BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "„ип-конденсатор керамический; 0402; 100 н‘ ± 10%; 25 ¬; X5R; ( итай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "„ип-конденсатор керамический"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 н‘"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "„ип-конденсатор керамический, 100 н‘, X5R, ± 10%, 25 ¬, 0402, -55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25 ¬"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES: 0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/RC0402JR-07100RL/311-100JRCT-ND/729362"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "( итай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "RC0402JR-07100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "0,1 ¬т"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "„ип-резистор; 0402; 1 кќм ± 5%; ( итай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125∞C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "± 5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeResistor"; Value = "„ип-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1 кќм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "„ип-резистор, 1 кќм, ± 5%, 0402, 0,1 ¬т, -55...+125∞C"; VariantName = "[No Variations]"
+Added Component: Designator=SB4(DS1040-01RT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Ningbo Connfly Electronic ( итай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "DS1040-01RT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PrintData"; Value = "DIP-переключатель DS1040-01RT; Ningbo Connfly Electronic ( итай)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeButton"; Value = "DIP-переключатель"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C33-1
+Added Pin To Net: NetName=+3.3V Pin=R16-2
+Added Pin To Net: NetName=GND Pin=SB4-2
+Added Pin To Net: NetName=MODE Pin=C33-2
+Added Pin To Net: NetName=MODE Pin=DD1-39
+Added Pin To Net: NetName=MODE Pin=R16-1
+Added Pin To Net: NetName=MODE Pin=SB4-1
+Added Net: Name=MODE
+Added Member To Class: ClassName=Scheme Member=Component C33 Ceramic_0402
+Added Member To Class: ClassName=Scheme Member=Component R16 Resistor_0402
+Added Member To Class: ClassName=Scheme Member=Component SB4 DS1040-01RT

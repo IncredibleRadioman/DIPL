@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=DD4-29
+Change Component Footprint: Designator=DD4 Old Footprint=QFN28_6X6 New Footprint=28-QFN (6x6)
+Added Pin To Net: NetName=GND Pin=DD4-0
+Added Pin To Net: NetName=GND Pin=DD4-0
+Added Pin To Net: NetName=GND Pin=DD4-0
+Added Pin To Net: NetName=GND Pin=DD4-0
+Added Pin To Net: NetName=GND Pin=DD4-0
+Added Pin To Net: NetName=GND Pin=DD4-0
+Added Pin To Net: NetName=GND Pin=DD4-0
+Added Pin To Net: NetName=GND Pin=DD4-0
+Added Pin To Net: NetName=GND Pin=DD4-0
+Added Pin To Net: NetName=GND Pin=DD4-0
+Added Class: Name=Scheme
+Added Room: Name=Scheme
